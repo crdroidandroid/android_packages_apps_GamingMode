@@ -3,6 +3,7 @@ android_app {
 
     srcs: [
         "src/main/java/**/*.kt",
+        "src/main/java/**/*.java",
     ],
     resource_dirs: [
         "src/main/res"
@@ -22,7 +23,7 @@ android_app {
         "com.google.android.material_material",
         "hilt_android",
         "jsr330",
-        "PreferenceExtensions",
+        "org.lineageos.platform.internal",
     ],
 
     platform_apis: true,

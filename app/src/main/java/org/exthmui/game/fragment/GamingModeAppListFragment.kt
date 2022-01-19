@@ -18,7 +18,7 @@ package org.exthmui.game.fragment
 
 import android.provider.Settings
 import androidx.preference.PreferenceDataStore
-import com.krypton.settings.preference.SystemSettingsStore
+import com.crdroid.settings.preferences.SystemSettingsStore
 
 import org.exthmui.game.R
 

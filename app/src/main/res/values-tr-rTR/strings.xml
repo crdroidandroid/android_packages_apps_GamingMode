@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
-    <string name="channel_gaming_mode_status">Gaming mode status</string>
-    <string name="action_stop_gaming_mode">Stop</string>
-    <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
-    <string name="performance">Performance</string>
-    <string name="power_save">Power save</string>
-    <string name="qs_auto_brightness">Auto brightness</string>
-    <string name="qs_notification_overlay">Notification overlay</string>
-    <string name="qs_ringer_mode">Silent mode</string>
-    <string name="qs_lock_gesture">Lock gesture</string>
-    <string name="qs_screen_capture">Screenshot</string>
-    <string name="enable_gaming_mode">Enable gaming mode</string>
-    <string name="gaming_mode_intro_text">Extra features for immersive gaming experience</string>
-    <string name="gaming_mode_disable_auto_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_disable_auto_brightness_summary">Disable auto brightness when entering game mode</string>
-    <string name="gaming_mode_notification_overlay_title">Notification overlay</string>
-    <string name="gaming_mode_notification_overlay_summary">Display the notification content as a transparent overlay on top</string>
-    <string name="gaming_mode_use_overlay_menu_title">Enable overlay menu</string>
+    <string name="game_space">Oyun alanı</string>
+    <string name="channel_gaming_mode_status">Oyun modu durumu</string>
+    <string name="action_stop_gaming_mode">Durdur</string>
+    <string name="gaming_mode_active">Oyun modu etkin</string>
+    <string name="battery_format">Pil: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Performans</string>
+    <string name="power_save">Güç tasarrufu</string>
+    <string name="qs_auto_brightness">Otomatik parlaklık</string>
+    <string name="qs_notification_overlay">Bildirim katmanı</string>
+    <string name="qs_ringer_mode">Sessiz mod</string>
+    <string name="qs_lock_gesture">Hareketi kilitle</string>
+    <string name="qs_screen_capture">Ekran görüntüsü</string>
+    <string name="enable_gaming_mode">Oyun modunu etkinleştir</string>
+    <string name="gaming_mode_intro_text">Sürükleyici oyun deneyimi için ekstra özellikler</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Otomatik parlaklığı devre dışı bırak</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Oyun moduna geçerken otomatik parlaklığı devre dışı bırak</string>
+    <string name="gaming_mode_notification_overlay_title">Bildirim katmanı</string>
+    <string name="gaming_mode_notification_overlay_summary">Bildirim içeriğini, üstte şeffaf bir katman olarak görüntüleyin</string>
+    <string name="gaming_mode_use_overlay_menu_title">Menü katmanını etkinleştir</string>
     <string name="gaming_mode_use_overlay_menu_summary">Show a floating button which opens a window with quick settings on tap</string>
     <string name="gaming_mode_menu_opacity_title">Overlay menu opacity level</string>
     <string name="gaming_mode_performance">Performance</string>

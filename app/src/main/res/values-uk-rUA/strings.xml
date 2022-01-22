@@ -69,7 +69,7 @@
     <string name="gaming_mode_disable_adb_title">Вимкнути налагодження USB</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Значення: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_default_value">за замовчуванням</string>
+    <string name="custom_seekbar_default_value_to_set">Значення за замовчуванням: <xliff:g id="v">%s</xliff:g>\nДовге натискання для встановлення</string>
+    <string name="custom_seekbar_default_value_is_set">Значення за замовчуванням встановлено</string>
 </resources>

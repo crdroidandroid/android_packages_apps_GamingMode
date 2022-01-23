@@ -20,7 +20,7 @@
     <string name="channel_gaming_mode_status">Status des Spielmodus</string>
     <string name="action_stop_gaming_mode">Beenden</string>
     <string name="gaming_mode_active">Spielmodus ist aktiv</string>
-    <string name="battery_format">Akku: <xliff:g id="percentage" example="100">%1$d %%</xliff:g></string>
+    <string name="battery_format">Akku: <xliff:g id="percentage" example="100">%1$d%% </xliff:g></string>
     <string name="performance">Leistung</string>
     <string name="power_save">Akku sparen</string>
     <string name="qs_auto_brightness">Autom. Helligkeit</string>

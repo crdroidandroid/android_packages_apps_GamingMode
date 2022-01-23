@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The exTHmUI Open Source Project
+     Copyright (C) 2021 AOSP-Krypton Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="game_space">Herní prostor</string>
+    <string name="channel_gaming_mode_status">Stav Herního režimu</string>
+    <string name="action_stop_gaming_mode">Zastavit</string>
+    <string name="gaming_mode_active">Herní režim je spuštěný</string>
+    <string name="battery_format">Baterie: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Výkon</string>
+    <string name="power_save">Úspora energie</string>
+    <string name="qs_auto_brightness">Automatický jas</string>
+    <string name="qs_notification_overlay">Styl oznámení</string>
+    <string name="qs_ringer_mode">Tichý režim</string>
+    <string name="qs_lock_gesture">Zamknout gesta</string>
+    <string name="qs_screen_capture">Snímek obrazovky</string>
+    <string name="enable_gaming_mode">Zapnout Herní režim</string>
+    <string name="gaming_mode_intro_text">Další funkce pro pohlcující herní zážitek</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Zakázat automatický jas</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Zakázat automatický jas při zapnutí Herního režimu</string>
+    <string name="gaming_mode_notification_overlay_title">Styl oznámení</string>
+    <string name="gaming_mode_notification_overlay_summary">Zobrazit obsah oznámení jako průhledný překryv nahoře</string>
+    <string name="gaming_mode_use_overlay_menu_title">Povolit překrytí menu</string>
+    <string name="gaming_mode_use_overlay_menu_summary">Zobrazit plovoucí tlačítko, které otevře okno s rychlým nastavením při klepnutí</string>
+    <string name="gaming_mode_menu_opacity_title">Úroveň průhlednosti překrytí menu</string>
+    <string name="gaming_mode_performance">Výkon</string>
+    <string name="gaming_mode_change_performance_title">Ladění výkonu</string>
+    <string name="gaming_mode_change_performance_summary">Upravit úroveň výkonu při spuštění hry</string>
+    <string name="gaming_mode_performance_title">Úroveň výkonnosti</string>
+    <string name="gaming_mode_dnd">Nerušit</string>
+    <string name="gaming_mode_disable_notification_alert_title">Vypnout oznámení</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Nepovolit plovoucí bubliny oznámení a konverzace jiné než příchozí hovory a budíky</string>
+    <string name="gaming_mode_disable_ringtone_title">Bez vyzvánění</string>
+    <string name="gaming_mode_disable_ringtone_summary">Vypnout vyzvánění příchozích hovorů a oznámení v herním režimu</string>
+    <string name="gaming_mode_auto_answer_call_title">Automatické přijímání hovorů</string>
+    <string name="gaming_mode_auto_answer_call_summary">Automatické přijímání hovorů ve hře a bez připojených sluchátek</string>
+    <string name="gaming_mode_prevent_accidental_touch">Zabránit nechtěným dotykům</string>
+    <string name="gaming_mode_disable_gesture_title">Zakázat gesta přejetím</string>
+    <string name="gaming_mode_apps_title">Seznam her</string>
+    <string name="gaming_mode_apps_summary">Vyberte aplikace pro spuštění herního režimu, když je otevřete</string>
+    <string name="gaming_mode_dynamic_add_title">Dynamický režim</string>
+    <string name="gaming_mode_dynamic_add_summary">Detekuje hry při otevírání a automaticky je přidává do seznamu</string>
+    <string name="gaming_mode_show_notification_overlay_title">Povolit oznámení</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Dynamické filtrování oznámení</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Automaticky filtrovat oznámení jako je průběh stahování a další</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Velikost překrytí v režimu na šířku</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Velikost překrytí v režimu na výšku</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Zakázané aplikace</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Zabránit vybraným aplikacím v zobrazování notifikací při hraní</string>
+    <string name="search">Hledat</string>
+    <string name="search_apps">Hledat aplikace</string>
+    <string name="application_icon">Ikona aplikace</string>
+    <string name="performance_level">Úroveň výkonnosti</string>
+    <string name="gaming_mode_miscellaneous">Různé</string>
+    <string name="gaming_mode_disable_adb_title">Zakázat ladění USB</string>
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Hodnota: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">výchozí hodnota</string>
+    <string name="custom_seekbar_default_value_to_set">Výchozí hodnota: <xliff:g id="v">%s</xliff:g>\nDlouze klepněte pro její nastavení</string>
+    <string name="custom_seekbar_default_value_is_set">Výchozí hodnota je nastavena</string>
+</resources>

@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Disattiva la luminosità automatica quando entri in modalità gioco</string>
     <string name="gaming_mode_notification_overlay_title">Sovrapposizione notifiche</string>
     <string name="gaming_mode_notification_overlay_summary">Mostra il contenuto della notifica come una sovrapposizione trasparente in alto</string>
-    <string name="gaming_mode_use_overlay_menu_title">Abilita menù sovrapposizione</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Mostra un pulsante fluttuante che apre una finestra con le impostazioni rapide al tocco</string>
     <string name="gaming_mode_menu_opacity_title">Livello di opacità menù sovrapposizione</string>
     <string name="gaming_mode_performance">Prestazioni</string>
     <string name="gaming_mode_change_performance_title">Ottimizzazione delle prestazioni</string>

@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Automatische helderheid uitschakelen bij het aanzetten van gaming modus</string>
     <string name="gaming_mode_notification_overlay_title">Notificatie overlay</string>
     <string name="gaming_mode_notification_overlay_summary">Geef de inhoud van de notificatie weer als transparante overlay bovenaan</string>
-    <string name="gaming_mode_use_overlay_menu_title">Overlay menu inschakelen</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Toon een zwevende knop die een venster opent met snelle instellingen bij tik</string>
     <string name="gaming_mode_menu_opacity_title">Transparantieniveau van overlappingsmenu</string>
     <string name="gaming_mode_performance">Prestatie</string>
     <string name="gaming_mode_change_performance_title">Prestaties tunen</string>

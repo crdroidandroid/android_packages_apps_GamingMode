@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Отключение автоматической яркости при входе в игровой режим</string>
     <string name="gaming_mode_notification_overlay_title">Наложение уведомлений</string>
     <string name="gaming_mode_notification_overlay_summary">Отображение содержимого уведомления в виде прозрачного наложения сверху</string>
-    <string name="gaming_mode_use_overlay_menu_title">Включить меню наложения</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Показать плавающую кнопку, которая открывает окно с быстрым настройками при нажатии</string>
     <string name="gaming_mode_menu_opacity_title">Уровень прозрачности меню наложения</string>
     <string name="gaming_mode_performance">Производительность</string>
     <string name="gaming_mode_change_performance_title">Настройка производительности</string>

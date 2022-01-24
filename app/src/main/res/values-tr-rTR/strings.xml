@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Oyun moduna geçerken otomatik parlaklığı devre dışı bırak</string>
     <string name="gaming_mode_notification_overlay_title">Bildirim katmanı</string>
     <string name="gaming_mode_notification_overlay_summary">Bildirim içeriğini, üstte şeffaf bir katman olarak görüntüleyin</string>
-    <string name="gaming_mode_use_overlay_menu_title">Menü katmanını etkinleştir</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Dokunmada hızlı ayarlar penceresini açan kayan bir düğme göster</string>
     <string name="gaming_mode_menu_opacity_title">Menü katmanı opaklık düzeyi</string>
     <string name="gaming_mode_performance">Performans</string>
     <string name="gaming_mode_change_performance_title">Performans ayarları</string>

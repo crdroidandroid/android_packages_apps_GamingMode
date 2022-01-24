@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Automatische Helligkeit beim Start des Spielmodus deaktivieren</string>
     <string name="gaming_mode_notification_overlay_title">Benachrichtigungseinblendung</string>
     <string name="gaming_mode_notification_overlay_summary">Benachrichtigungsinhalt oben transparent einblenden</string>
-    <string name="gaming_mode_use_overlay_menu_title">Menüeinblendung aktivieren</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Verschiebbare Verknüpfung zu Spielmodus-Schnelleinstellungen anzeigen</string>
     <string name="gaming_mode_menu_opacity_title">Transparenz der Menüeinblendung</string>
     <string name="gaming_mode_performance">Leistung</string>
     <string name="gaming_mode_change_performance_title">Leistungsanpassung</string>

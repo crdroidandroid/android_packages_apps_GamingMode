@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Вимкнути автоматичну яскравість при вході в режим гри</string>
     <string name="gaming_mode_notification_overlay_title">Накладення сповіщень</string>
     <string name="gaming_mode_notification_overlay_summary">Показувати вміст сповіщень як прозорий накладання зверху</string>
-    <string name="gaming_mode_use_overlay_menu_title">Увімкнути меню оверлею</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Показувати плаваючу кнопку, яка відкриває вікно швидкими налаштуваннями по дотику</string>
     <string name="gaming_mode_menu_opacity_title">Рівень непрозорості меню перекриття</string>
     <string name="gaming_mode_performance">Продуктивність</string>
     <string name="gaming_mode_change_performance_title">Налаштування продуктивності</string>

@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Wyłącz automatyczną jasność po uruchomieniu trybu gry</string>
     <string name="gaming_mode_notification_overlay_title">Nakładka powiadomień</string>
     <string name="gaming_mode_notification_overlay_summary">Wyświetlaj zawartość powiadomień jako przezroczystą nakładkę na górze</string>
-    <string name="gaming_mode_use_overlay_menu_title">Włącz menu nakładki</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Pokaż pływający przycisk, który otwiera okno z szybkimi ustawieniami po dotknięciu</string>
     <string name="gaming_mode_menu_opacity_title">Poziom przezroczystości nakładki menu</string>
     <string name="gaming_mode_performance">Wydajność</string>
     <string name="gaming_mode_change_performance_title">Dostrajanie wydajności</string>

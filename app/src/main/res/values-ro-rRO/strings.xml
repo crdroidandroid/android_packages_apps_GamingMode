@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Dezactivează luminozitatea automată la intrarea în modul de joc</string>
     <string name="gaming_mode_notification_overlay_title">Suprapunere notificare</string>
     <string name="gaming_mode_notification_overlay_summary">Afișează conținutul notificărilor ca o suprapunere transparentă în partea de sus</string>
-    <string name="gaming_mode_use_overlay_menu_title">Activează meniul suprapus</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Arată un buton plutitor care deschide o fereastră cu setări rapide la atingere</string>
     <string name="gaming_mode_menu_opacity_title">Opacitate pentru meniu suprapus</string>
     <string name="gaming_mode_performance">Performanța</string>
     <string name="gaming_mode_change_performance_title">Reglarea performanțelor</string>

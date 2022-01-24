@@ -34,8 +34,6 @@
     <string name="gaming_mode_disable_auto_brightness_summary">Zakázat automatický jas při zapnutí Herního režimu</string>
     <string name="gaming_mode_notification_overlay_title">Styl oznámení</string>
     <string name="gaming_mode_notification_overlay_summary">Zobrazit obsah oznámení jako průhledný překryv nahoře</string>
-    <string name="gaming_mode_use_overlay_menu_title">Povolit překrytí menu</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Zobrazit plovoucí tlačítko, které otevře okno s rychlým nastavením při klepnutí</string>
     <string name="gaming_mode_menu_opacity_title">Úroveň průhlednosti překrytí menu</string>
     <string name="gaming_mode_performance">Výkon</string>
     <string name="gaming_mode_change_performance_title">Ladění výkonu</string>

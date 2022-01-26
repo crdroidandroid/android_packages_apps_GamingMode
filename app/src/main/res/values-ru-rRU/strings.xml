@@ -16,60 +16,58 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
-    <string name="channel_gaming_mode_status">Gaming mode status</string>
-    <string name="action_stop_gaming_mode">Stop</string>
-    <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
-    <string name="performance">Performance</string>
-    <string name="power_save">Power save</string>
-    <string name="qs_auto_brightness">Auto brightness</string>
-    <string name="qs_notification_overlay">Notification overlay</string>
-    <string name="qs_ringer_mode">Silent mode</string>
-    <string name="qs_lock_gesture">Lock gesture</string>
-    <string name="qs_screen_capture">Screenshot</string>
-    <string name="enable_gaming_mode">Enable gaming mode</string>
-    <string name="gaming_mode_intro_text">Extra features for immersive gaming experience</string>
-    <string name="gaming_mode_disable_auto_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_disable_auto_brightness_summary">Disable auto brightness when entering game mode</string>
-    <string name="gaming_mode_notification_overlay_title">Notification overlay</string>
-    <string name="gaming_mode_notification_overlay_summary">Display the notification content as a transparent overlay on top</string>
-    <string name="gaming_mode_use_overlay_menu_title">Enable overlay menu</string>
-    <string name="gaming_mode_use_overlay_menu_summary">Show a floating button which opens a window with quick settings on tap</string>
-    <string name="gaming_mode_menu_opacity_title">Overlay menu opacity level</string>
-    <string name="gaming_mode_performance">Performance</string>
-    <string name="gaming_mode_change_performance_title">Performance tuning</string>
-    <string name="gaming_mode_change_performance_summary">Adjust performance level when starting game</string>
-    <string name="gaming_mode_performance_title">Performance level</string>
-    <string name="gaming_mode_dnd">Do not disturb</string>
-    <string name="gaming_mode_disable_notification_alert_title">Disable notification alert</string>
-    <string name="gaming_mode_disable_notification_alert_summary">Do not allow floating notification and conversation bubbles other than incoming calls and alarms</string>
-    <string name="gaming_mode_disable_ringtone_title">No ringing</string>
-    <string name="gaming_mode_disable_ringtone_summary">Turn off the ringing of incoming calls and notifications in gaming mode</string>
-    <string name="gaming_mode_auto_answer_call_title">Answering calls automatically</string>
-    <string name="gaming_mode_auto_answer_call_summary">Answer calls automatically in the game and hands free when no headphones connected</string>
-    <string name="gaming_mode_prevent_accidental_touch">Prevent accidental touch</string>
-    <string name="gaming_mode_disable_gesture_title">Disable swipe gestures</string>
-    <string name="gaming_mode_apps_title">Game list</string>
-    <string name="gaming_mode_apps_summary">Select apps to launch gaming mode when you open them</string>
-    <string name="gaming_mode_dynamic_add_title">Dynamic mode</string>
-    <string name="gaming_mode_dynamic_add_summary">Detects games on opening and automatically add them to the list</string>
-    <string name="gaming_mode_show_notification_overlay_title">Enable notification overlay</string>
-    <string name="gaming_mode_dynamic_notification_filter_title">Dynamic filtering notification</string>
-    <string name="gaming_mode_dynamic_notification_filter_summary">Automatically filter notifications such as download progress</string>
-    <string name="gaming_mode_notification_overlay_size_landscape_title">Overlay size in landscape mode</string>
-    <string name="gaming_mode_notification_overlay_size_portrait_title">Overlay size in portrait mode</string>
-    <string name="gaming_mode_notification_overlay_blacklist_title">Blacklisted apps</string>
-    <string name="gaming_mode_notification_overlay_blacklist_summary">Prevent selected apps from showing notification overlay while gaming</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
-    <string name="application_icon">Application icon</string>
-    <string name="performance_level">Performance level</string>
-    <string name="gaming_mode_miscellaneous">Miscellaneous</string>
-    <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="game_space">Игровое пространство</string>
+    <string name="channel_gaming_mode_status">Статус игрового режима</string>
+    <string name="action_stop_gaming_mode">Остановить</string>
+    <string name="gaming_mode_active">Игровой режим активен</string>
+    <string name="battery_format">Батарея: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Производительность</string>
+    <string name="power_save">Экономия энергии</string>
+    <string name="qs_auto_brightness">Автоматическая яркость</string>
+    <string name="qs_notification_overlay">Наложение уведомлений</string>
+    <string name="qs_ringer_mode">Беззвучный режим</string>
+    <string name="qs_lock_gesture">Жест блокировки</string>
+    <string name="qs_screen_capture">Снимок экрана</string>
+    <string name="enable_gaming_mode">Включить игровой режим</string>
+    <string name="gaming_mode_intro_text">Дополнительные возможности для полноценного погружения в игру</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Отключить автоматическую яркость</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Отключение автоматической яркости при входе в игровой режим</string>
+    <string name="gaming_mode_notification_overlay_title">Наложение уведомлений</string>
+    <string name="gaming_mode_notification_overlay_summary">Отображение содержимого уведомления в виде прозрачного наложения сверху</string>
+    <string name="gaming_mode_menu_opacity_title">Уровень прозрачности меню наложения</string>
+    <string name="gaming_mode_performance">Производительность</string>
+    <string name="gaming_mode_change_performance_title">Настройка производительности</string>
+    <string name="gaming_mode_change_performance_summary">Регулировать уровень производительности при запуске игры</string>
+    <string name="gaming_mode_performance_title">Уровень производительности</string>
+    <string name="gaming_mode_dnd">Не беспокоить</string>
+    <string name="gaming_mode_disable_notification_alert_title">Отключить оповещение уведомлений</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Запретить всплывающие уведомления и разговоры кроме входящих звонков и будильников</string>
+    <string name="gaming_mode_disable_ringtone_title">Отключить звонок</string>
+    <string name="gaming_mode_disable_ringtone_summary">Отключение звонка входящих вызовов и уведомлений в игровом режиме</string>
+    <string name="gaming_mode_auto_answer_call_title">Автоматический ответ на звонки</string>
+    <string name="gaming_mode_auto_answer_call_summary">Отвечайте на звонки автоматически в игре и в режиме громкой связи, когда наушники не подключены</string>
+    <string name="gaming_mode_prevent_accidental_touch">Предотвращать случайные касания</string>
+    <string name="gaming_mode_disable_gesture_title">Отключение жестов пролистывания</string>
+    <string name="gaming_mode_apps_title">Список игр</string>
+    <string name="gaming_mode_apps_summary">Выберите приложения, при открытии которых будет запускаться игровой режим</string>
+    <string name="gaming_mode_dynamic_add_title">Динамический режим</string>
+    <string name="gaming_mode_dynamic_add_summary">Обнаруживает игры при открытии и автоматически добавляет их в список</string>
+    <string name="gaming_mode_show_notification_overlay_title">Включить наложение уведомлений</string>
+    <string name="gaming_mode_dynamic_notification_filter_title">Динамический фильтр уведомлений</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">Автоматически фильтровать уведомления такие как прогресс загрузки</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Размер наложения в ландшафтном режиме</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Размер наложения в портретном режиме</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">Чёрный список</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">Запретите выбранным приложениям показывать наложение уведомлений во время игры</string>
+    <string name="search">Поиск</string>
+    <string name="search_apps">Поиск приложений</string>
+    <string name="application_icon">Значок приложения</string>
+    <string name="performance_level">Уровень производительности</string>
+    <string name="gaming_mode_miscellaneous">Разное</string>
+    <string name="gaming_mode_disable_adb_title">Отключение отладки по USB</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">по умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nУдерживайте для установки</string>
+    <string name="custom_seekbar_default_value_is_set">Значение по умолчанию установлено</string>
 </resources>

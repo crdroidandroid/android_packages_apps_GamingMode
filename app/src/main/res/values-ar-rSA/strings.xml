@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
+    <string name="game_space">مساحة اللعبة</string>
     <string name="channel_gaming_mode_status">Gaming mode status</string>
     <string name="action_stop_gaming_mode">Stop</string>
     <string name="gaming_mode_active">Gaming mode is active</string>

@@ -20,7 +20,7 @@
     <string name="channel_gaming_mode_status">Gaming mode status</string>
     <string name="action_stop_gaming_mode">Stop</string>
     <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="battery_format">البطاريه: <xliff:g id="المقياس" example="100">%1$d%%</xliff:g></string>
     <string name="performance">Performance</string>
     <string name="power_save">Power save</string>
     <string name="qs_auto_brightness">Auto brightness</string>

@@ -64,10 +64,10 @@
     <string name="application_icon">Icona applicazione</string>
     <string name="performance_level">Livello prestazioni</string>
     <string name="gaming_mode_miscellaneous">Varie</string>
-    <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="gaming_mode_disable_adb_title">Disabilita il debug USB</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Valore: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">per impostazione predefinita</string>
+    <string name="custom_seekbar_default_value_to_set">Valore predefinito: <xliff:g id="v">%s</xliff:g>\nTocca a lungo per impostare</string>
+    <string name="custom_seekbar_default_value_is_set">Valore predefinito impostato</string>
 </resources>

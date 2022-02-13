@@ -47,16 +47,16 @@
     <string name="gaming_mode_auto_answer_call_title">Aramaları otomatik cevapla</string>
     <string name="gaming_mode_auto_answer_call_summary">Oyundayken aramaları otomatik cevapla ve kulaklık takılı değilse eller serbest kullan</string>
     <string name="gaming_mode_prevent_accidental_touch">Yanlışlıkla dokunmayı önle</string>
-    <string name="gaming_mode_disable_gesture_title">Kaydırma hareketlerini etkinleştir</string>
+    <string name="gaming_mode_disable_gesture_title">Kaydırma hareketlerini devre dışı bırak</string>
     <string name="gaming_mode_apps_title">Oyun listesi</string>
     <string name="gaming_mode_apps_summary">Oyun modu açıldığında başlatılacak uygulamaları seçin</string>
     <string name="gaming_mode_dynamic_add_title">Dinamik mod</string>
-    <string name="gaming_mode_dynamic_add_summary">Oyunları algıla ve otomatik olarak listeye ekle</string>
+    <string name="gaming_mode_dynamic_add_summary">Açılışta oyunları algılar ve otomatik olarak listeye ekler</string>
     <string name="gaming_mode_show_notification_overlay_title">Bildirimleri etkinleştir</string>
     <string name="gaming_mode_dynamic_notification_filter_title">Dinamik filtreleme bildirimi</string>
     <string name="gaming_mode_dynamic_notification_filter_summary">Devam eden indirme işlemi gibi bildirimleri otomatik filtrele</string>
-    <string name="gaming_mode_notification_overlay_size_landscape_title">Manzara modunda katman boyutu</string>
-    <string name="gaming_mode_notification_overlay_size_portrait_title">Portre modunda katman boyutu</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">Yatay modda katman boyutu</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">Dikey modda katman boyutu</string>
     <string name="gaming_mode_notification_overlay_blacklist_title">Kara listeye alınan uygulamalar</string>
     <string name="gaming_mode_notification_overlay_blacklist_summary">Oyun oynarken seçili uygulamaların bildirim göstermesini engelle</string>
     <string name="search">Ara</string>
@@ -68,6 +68,6 @@
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">varsayılan</string>
-    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+    <string name="custom_seekbar_default_value_to_set">Varsayılan değer: <xliff:g id="v">%s</xliff:g>\nAyarlamak için uzun basın</string>
     <string name="custom_seekbar_default_value_is_set">Varsayılan değer ayarlandı</string>
 </resources>

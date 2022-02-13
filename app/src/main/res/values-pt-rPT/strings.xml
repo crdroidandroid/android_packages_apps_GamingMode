@@ -18,12 +18,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="game_space">Game space</string>
     <string name="channel_gaming_mode_status">Gaming mode status</string>
-    <string name="action_stop_gaming_mode">Stop</string>
-    <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
-    <string name="performance">Performance</string>
-    <string name="power_save">Power save</string>
-    <string name="qs_auto_brightness">Auto brightness</string>
+    <string name="action_stop_gaming_mode">Parar</string>
+    <string name="gaming_mode_active">Modo de jogo ativado</string>
+    <string name="battery_format">Bateria: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Desempenho</string>
+    <string name="power_save">Poupança de bateria</string>
+    <string name="qs_auto_brightness">Luminosidade adaptável</string>
     <string name="qs_notification_overlay">Notification overlay</string>
     <string name="qs_ringer_mode">Silent mode</string>
     <string name="qs_lock_gesture">Lock gesture</string>
@@ -35,11 +35,11 @@
     <string name="gaming_mode_notification_overlay_title">Notification overlay</string>
     <string name="gaming_mode_notification_overlay_summary">Display the notification content as a transparent overlay on top</string>
     <string name="gaming_mode_menu_opacity_title">Overlay menu opacity level</string>
-    <string name="gaming_mode_performance">Performance</string>
+    <string name="gaming_mode_performance">Desempenho</string>
     <string name="gaming_mode_change_performance_title">Performance tuning</string>
     <string name="gaming_mode_change_performance_summary">Adjust performance level when starting game</string>
-    <string name="gaming_mode_performance_title">Performance level</string>
-    <string name="gaming_mode_dnd">Do not disturb</string>
+    <string name="gaming_mode_performance_title">Nível de desempenho</string>
+    <string name="gaming_mode_dnd">Não incomodar</string>
     <string name="gaming_mode_disable_notification_alert_title">Disable notification alert</string>
     <string name="gaming_mode_disable_notification_alert_summary">Do not allow floating notification and conversation bubbles other than incoming calls and alarms</string>
     <string name="gaming_mode_disable_ringtone_title">No ringing</string>
@@ -48,7 +48,7 @@
     <string name="gaming_mode_auto_answer_call_summary">Answer calls automatically in the game and hands free when no headphones connected</string>
     <string name="gaming_mode_prevent_accidental_touch">Prevent accidental touch</string>
     <string name="gaming_mode_disable_gesture_title">Disable swipe gestures</string>
-    <string name="gaming_mode_apps_title">Game list</string>
+    <string name="gaming_mode_apps_title">Lista de jogos</string>
     <string name="gaming_mode_apps_summary">Select apps to launch gaming mode when you open them</string>
     <string name="gaming_mode_dynamic_add_title">Dynamic mode</string>
     <string name="gaming_mode_dynamic_add_summary">Detects games on opening and automatically add them to the list</string>
@@ -59,12 +59,12 @@
     <string name="gaming_mode_notification_overlay_size_portrait_title">Overlay size in portrait mode</string>
     <string name="gaming_mode_notification_overlay_blacklist_title">Blacklisted apps</string>
     <string name="gaming_mode_notification_overlay_blacklist_summary">Prevent selected apps from showing notification overlay while gaming</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
+    <string name="search">Pesquisa</string>
+    <string name="search_apps">Pesquisar aplicações</string>
     <string name="application_icon">Application icon</string>
-    <string name="performance_level">Performance level</string>
+    <string name="performance_level">Nível de desempenho</string>
     <string name="gaming_mode_miscellaneous">Miscellaneous</string>
-    <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="gaming_mode_disable_adb_title">Desativar depuração USB</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>

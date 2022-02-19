@@ -16,25 +16,25 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
-    <string name="channel_gaming_mode_status">Gaming mode status</string>
-    <string name="action_stop_gaming_mode">Stop</string>
-    <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
-    <string name="performance">Performance</string>
-    <string name="power_save">Power save</string>
-    <string name="qs_auto_brightness">Auto brightness</string>
-    <string name="qs_notification_overlay">Notification overlay</string>
-    <string name="qs_ringer_mode">Silent mode</string>
-    <string name="qs_lock_gesture">Lock gesture</string>
-    <string name="qs_screen_capture">Screenshot</string>
-    <string name="enable_gaming_mode">Enable gaming mode</string>
-    <string name="gaming_mode_intro_text">Extra features for immersive gaming experience</string>
-    <string name="gaming_mode_disable_auto_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_disable_auto_brightness_summary">Disable auto brightness when entering game mode</string>
-    <string name="gaming_mode_notification_overlay_title">Notification overlay</string>
-    <string name="gaming_mode_notification_overlay_summary">Display the notification content as a transparent overlay on top</string>
-    <string name="gaming_mode_menu_opacity_title">Overlay menu opacity level</string>
+    <string name="game_space">Không gian trò chơi</string>
+    <string name="channel_gaming_mode_status">Trạng thái chế độ chơi trò chơi</string>
+    <string name="action_stop_gaming_mode">Dừng</string>
+    <string name="gaming_mode_active">Chế độ chơi trò chơi đang hoạt động</string>
+    <string name="battery_format">Pin: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">Hiệu suất cao</string>
+    <string name="power_save">Tiết kiệm pin</string>
+    <string name="qs_auto_brightness">Độ sáng tự động</string>
+    <string name="qs_notification_overlay">Lớp phủ thông báo</string>
+    <string name="qs_ringer_mode">Chế độ im lặng</string>
+    <string name="qs_lock_gesture">Khóa cử chỉ</string>
+    <string name="qs_screen_capture">Chụp màn hình</string>
+    <string name="enable_gaming_mode">Bật chế độ chơi trò chơi</string>
+    <string name="gaming_mode_intro_text">Các tính năng bổ sung cho trải nghiệm chơi game nhập vai</string>
+    <string name="gaming_mode_disable_auto_brightness_title">Vô hiệu hóa độ sáng tự động</string>
+    <string name="gaming_mode_disable_auto_brightness_summary">Tắt độ sáng tự động khi vào chế độ trò chơi</string>
+    <string name="gaming_mode_notification_overlay_title">Lớp phủ thông báo</string>
+    <string name="gaming_mode_notification_overlay_summary">Hiển thị nội dung thông báo dưới dạng lớp phủ trong suốt ở trên cùng</string>
+    <string name="gaming_mode_menu_opacity_title">Mức độ mờ của menu lớp phủ</string>
     <string name="gaming_mode_performance">Performance</string>
     <string name="gaming_mode_change_performance_title">Performance tuning</string>
     <string name="gaming_mode_change_performance_summary">Adjust performance level when starting game</string>

@@ -49,7 +49,7 @@
     <string name="gaming_mode_prevent_accidental_touch">Evitar toques acidentais</string>
     <string name="gaming_mode_disable_gesture_title">Desativar gestos de deslizar</string>
     <string name="gaming_mode_apps_title">Lista de jogos</string>
-    <string name="gaming_mode_apps_summary">Selecionar aplicativos para iniciar o modo de jogo ao ser aberto</string>
+    <string name="gaming_mode_apps_summary">Selecionar aplicativos para iniciar o modo de jogo ao serem abertos</string>
     <string name="gaming_mode_dynamic_add_title">Modo dinâmico</string>
     <string name="gaming_mode_dynamic_add_summary">Detecta os jogos ao abrir e os adiciona automaticamente à lista</string>
     <string name="gaming_mode_show_notification_overlay_title">Permitir a sobreposição de notificações</string>

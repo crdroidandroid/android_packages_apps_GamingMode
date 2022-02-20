@@ -45,29 +45,29 @@
     <string name="gaming_mode_disable_ringtone_title">벨소리 끄기</string>
     <string name="gaming_mode_disable_ringtone_summary">게임 모드에서 수신 전화 및 알림 벨소리 끄기</string>
     <string name="gaming_mode_auto_answer_call_title">자동으로 전화 받기</string>
-    <string name="gaming_mode_auto_answer_call_summary">Answer calls automatically in the game and hands free when no headphones connected</string>
+    <string name="gaming_mode_auto_answer_call_summary">게임에서 자동으로 전화를 받고 헤드폰이 연결되어 있지 않을 때 핸즈프리</string>
     <string name="gaming_mode_prevent_accidental_touch">실수로 화면 켜기 방지</string>
     <string name="gaming_mode_disable_gesture_title">세이프 제스처 비활성화</string>
     <string name="gaming_mode_apps_title">게임 목록</string>
     <string name="gaming_mode_apps_summary">앱을 열 때 게임 모드를 실행할 앱 선택</string>
     <string name="gaming_mode_dynamic_add_title">탐지 모드</string>
-    <string name="gaming_mode_dynamic_add_summary">Detects games on opening and automatically add them to the list</string>
+    <string name="gaming_mode_dynamic_add_summary">게임 앱을 열 때 자동으로 감지하고 목록에 추가</string>
     <string name="gaming_mode_show_notification_overlay_title">알림 오버레이 활성화</string>
     <string name="gaming_mode_dynamic_notification_filter_title">동적 필터링 알림</string>
-    <string name="gaming_mode_dynamic_notification_filter_summary">Automatically filter notifications such as download progress</string>
-    <string name="gaming_mode_notification_overlay_size_landscape_title">Overlay size in landscape mode</string>
-    <string name="gaming_mode_notification_overlay_size_portrait_title">Overlay size in portrait mode</string>
-    <string name="gaming_mode_notification_overlay_blacklist_title">Blacklisted apps</string>
-    <string name="gaming_mode_notification_overlay_blacklist_summary">Prevent selected apps from showing notification overlay while gaming</string>
-    <string name="search">Search</string>
-    <string name="search_apps">Search apps</string>
-    <string name="application_icon">Application icon</string>
-    <string name="performance_level">Performance level</string>
-    <string name="gaming_mode_miscellaneous">Miscellaneous</string>
-    <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="gaming_mode_dynamic_notification_filter_summary">다운로드 진행률과 같은 알림 자동 필터링</string>
+    <string name="gaming_mode_notification_overlay_size_landscape_title">가로 모드에서 오버레이 크기</string>
+    <string name="gaming_mode_notification_overlay_size_portrait_title">세로 모드에서 오버레이 크기</string>
+    <string name="gaming_mode_notification_overlay_blacklist_title">블랙리스트 앱</string>
+    <string name="gaming_mode_notification_overlay_blacklist_summary">게임 중에 선택한 앱이 알림 오버레이를 표시하지 않도록 방지</string>
+    <string name="search">검색</string>
+    <string name="search_apps">앱 검색</string>
+    <string name="application_icon">애플리케이션 아이콘</string>
+    <string name="performance_level">성능 레벨</string>
+    <string name="gaming_mode_miscellaneous">기타</string>
+    <string name="gaming_mode_disable_adb_title">USB 디버깅 비활성화</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">값: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">기본값으로 설정</string>
+    <string name="custom_seekbar_default_value_to_set">기본값: <xliff:g id="v">%s</xliff:g>\n길게 눌러서 설정</string>
+    <string name="custom_seekbar_default_value_is_set">기본값으로 설정됨</string>
 </resources>

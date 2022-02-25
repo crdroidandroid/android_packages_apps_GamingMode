@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
-    <string name="channel_gaming_mode_status">Gaming mode status</string>
-    <string name="action_stop_gaming_mode">Stop</string>
-    <string name="gaming_mode_active">Gaming mode is active</string>
-    <string name="battery_format">Battery: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
-    <string name="performance">Performance</string>
-    <string name="power_save">Power save</string>
-    <string name="qs_auto_brightness">Auto brightness</string>
-    <string name="qs_notification_overlay">Notification overlay</string>
-    <string name="qs_ringer_mode">Silent mode</string>
-    <string name="qs_lock_gesture">Lock gesture</string>
+    <string name="game_space">ゲームスペース</string>
+    <string name="channel_gaming_mode_status">ゲームモードの状態</string>
+    <string name="action_stop_gaming_mode">ゲームモードを停止</string>
+    <string name="gaming_mode_active">ゲームモードは有効です</string>
+    <string name="battery_format">バッテリー: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
+    <string name="performance">パフォーマンス</string>
+    <string name="power_save">省電力</string>
+    <string name="qs_auto_brightness">明るさの自動調節</string>
+    <string name="qs_notification_overlay">通知オーバーレイ</string>
+    <string name="qs_ringer_mode">サイレントモード</string>
+    <string name="qs_lock_gesture">ジェスチャーをロック</string>
     <string name="qs_screen_capture">Screenshot</string>
     <string name="enable_gaming_mode">Enable gaming mode</string>
     <string name="gaming_mode_intro_text">Extra features for immersive gaming experience</string>

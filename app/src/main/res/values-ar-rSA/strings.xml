@@ -62,12 +62,12 @@
     <string name="search">بحث</string>
     <string name="search_apps">البحث عن تطبيقات</string>
     <string name="application_icon">أيقونة التطبيق</string>
-    <string name="performance_level">Performance level</string>
-    <string name="gaming_mode_miscellaneous">Miscellaneous</string>
-    <string name="gaming_mode_disable_adb_title">Disable USB debugging</string>
+    <string name="performance_level">مستوى الأداء</string>
+    <string name="gaming_mode_miscellaneous">خيارات متنوعة</string>
+    <string name="gaming_mode_disable_adb_title">تعطيل تصحيح أخطاء USB</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">القيمة: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">بشكل افتراضي</string>
+    <string name="custom_seekbar_default_value_to_set">القيمة الافتراضية: <xliff:g id="v">%s</xliff:g>\n أنقر مطولاً للتعيين</string>
+    <string name="custom_seekbar_default_value_is_set">تم تعيين القيمة الافتراضية</string>
 </resources>

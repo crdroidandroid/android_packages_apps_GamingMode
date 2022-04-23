@@ -16,19 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="game_space">Game space</string>
-    <string name="channel_gaming_mode_status">Gaming mode status</string>
+    <string name="game_space">Espaco de jogo</string>
+    <string name="channel_gaming_mode_status">Estado do modo de jogo</string>
     <string name="action_stop_gaming_mode">Parar</string>
     <string name="gaming_mode_active">Modo de jogo ativado</string>
     <string name="battery_format">Bateria: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
     <string name="performance">Desempenho</string>
     <string name="power_save">Poupança de bateria</string>
     <string name="qs_auto_brightness">Luminosidade adaptável</string>
-    <string name="qs_notification_overlay">Notification overlay</string>
-    <string name="qs_ringer_mode">Silent mode</string>
-    <string name="qs_lock_gesture">Lock gesture</string>
-    <string name="qs_screen_capture">Screenshot</string>
-    <string name="enable_gaming_mode">Enable gaming mode</string>
+    <string name="qs_notification_overlay">Sobreposição da notificação</string>
+    <string name="qs_ringer_mode">Modo silencioso</string>
+    <string name="qs_lock_gesture">Bloquear gesto</string>
+    <string name="qs_screen_capture">Captura de Ecrã</string>
+    <string name="enable_gaming_mode">Ativar modo de jogo</string>
     <string name="gaming_mode_intro_text">Extra features for immersive gaming experience</string>
     <string name="gaming_mode_disable_auto_brightness_title">Disable automatic brightness</string>
     <string name="gaming_mode_disable_auto_brightness_summary">Disable auto brightness when entering game mode</string>

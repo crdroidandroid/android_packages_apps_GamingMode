@@ -23,7 +23,7 @@
     <string name="battery_format">Bateria: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
     <string name="performance">Desempenho</string>
     <string name="power_save">Poupança de bateria</string>
-    <string name="qs_auto_brightness">Luminosidade adaptável</string>
+    <string name="qs_auto_brightness">Brilho adaptável</string>
     <string name="qs_notification_overlay">Sobreposição da notificação</string>
     <string name="qs_ringer_mode">Modo silencioso</string>
     <string name="qs_lock_gesture">Bloquear gesto</string>

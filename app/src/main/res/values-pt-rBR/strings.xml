@@ -35,7 +35,7 @@
     <string name="gaming_mode_notification_overlay_title">Notificação flutuante</string>
     <string name="gaming_mode_notification_overlay_summary">Mostrar o conteúdo da notificação como um balão transparente no topo</string>
     <string name="gaming_mode_menu_opacity_title">Nível de opacidade do menu de sobreposição</string>
-    <string name="gaming_mode_performance">Modo Desempenho de Jogo</string>
+    <string name="gaming_mode_performance">Performance</string>
     <string name="gaming_mode_change_performance_title">Ajuste de desempenho</string>
     <string name="gaming_mode_change_performance_summary">Ajustar o nível de desempenho no início do jogo</string>
     <string name="gaming_mode_performance_title">Nível de desempenho</string>

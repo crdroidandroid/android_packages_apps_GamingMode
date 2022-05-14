@@ -19,7 +19,7 @@
     <string name="game_space">Spazio di gioco</string>
     <string name="channel_gaming_mode_status">Stato della modalità gioco</string>
     <string name="action_stop_gaming_mode">Interrompi</string>
-    <string name="gaming_mode_active">Modalità di gioco attiva</string>
+    <string name="gaming_mode_active">Modalità di gioco è attiva</string>
     <string name="battery_format">Batteria: <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
     <string name="performance">Prestazioni</string>
     <string name="power_save">Risparmio energetico</string>
@@ -33,7 +33,7 @@
     <string name="gaming_mode_disable_auto_brightness_title">Disabilita luminosità automatica</string>
     <string name="gaming_mode_disable_auto_brightness_summary">Disattiva la luminosità automatica quando entri in modalità gioco</string>
     <string name="gaming_mode_notification_overlay_title">Sovrapposizione notifiche</string>
-    <string name="gaming_mode_notification_overlay_summary">Mostra il contenuto della notifica come una sovrapposizione trasparente in alto</string>
+    <string name="gaming_mode_notification_overlay_summary">Mostra il contenuto della notifica in alto come una sovrapposizione trasparente</string>
     <string name="gaming_mode_menu_opacity_title">Livello di opacità menù sovrapposizione</string>
     <string name="gaming_mode_performance">Prestazioni</string>
     <string name="gaming_mode_change_performance_title">Ottimizzazione delle prestazioni</string>
@@ -41,7 +41,7 @@
     <string name="gaming_mode_performance_title">Livello prestazioni</string>
     <string name="gaming_mode_dnd">Non disturbare</string>
     <string name="gaming_mode_disable_notification_alert_title">Disattiva avviso di notifica</string>
-    <string name="gaming_mode_disable_notification_alert_summary">Non consentire notifiche mobili e bolle di conversazione diverse da chiamate in arrivo e allarmi</string>
+    <string name="gaming_mode_disable_notification_alert_summary">Non consentire notifiche fluttuanti e conversazione in bolle diverse da chiamate in arrivo e allarmi</string>
     <string name="gaming_mode_disable_ringtone_title">Nessuna suoneria</string>
     <string name="gaming_mode_disable_ringtone_summary">Disattiva la suoneria per le chiamate in arrivo e le notifiche in modalità gioco</string>
     <string name="gaming_mode_auto_answer_call_title">Rispondi automaticamente alle chiamate</string>

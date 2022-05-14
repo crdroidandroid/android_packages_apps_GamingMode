@@ -37,7 +37,7 @@
     <string name="gaming_mode_menu_opacity_title">Niveau d\'opacité du menu de superposition</string>
     <string name="gaming_mode_performance">Performance</string>
     <string name="gaming_mode_change_performance_title">Réglage des performances</string>
-    <string name="gaming_mode_change_performance_summary">Ajuster le niveau de performance au démarrage de la partie</string>
+    <string name="gaming_mode_change_performance_summary">Ajuster le niveau de performance au démarrage du jeu</string>
     <string name="gaming_mode_performance_title">Niveaux de performance</string>
     <string name="gaming_mode_dnd">Ne pas déranger</string>
     <string name="gaming_mode_disable_notification_alert_title">Désactiver l\'alerte de notification</string>

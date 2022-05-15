@@ -27,7 +27,7 @@
     <string name="qs_notification_overlay">Benachr.-Einblendung</string>
     <string name="qs_ringer_mode">Stummschaltung</string>
     <string name="qs_lock_gesture">Gesten deaktivieren</string>
-    <string name="qs_screen_capture">Screenshot</string>
+    <string name="qs_screen_capture">Bildschirmfoto</string>
     <string name="enable_gaming_mode">Spielmodus aktivieren</string>
     <string name="gaming_mode_intro_text">Zusätzliche Funktionen für ungestörtes Spieleerlebnis</string>
     <string name="gaming_mode_disable_auto_brightness_title">Automatische Helligkeit deaktivieren</string>
